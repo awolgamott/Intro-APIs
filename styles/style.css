@@ -1,9 +1,10 @@
 body { 
-background: url('https://roxyswords.files.wordpress.com/2011/05/united_states_flag_patriotism.jpg') 
+background: url('https://roxyswords.files.wordpress.com/2011/05/united_states_flag_patriotism.jpg'); 
+font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .politician {
-background: grey;
+background: white;
 display: inline-block;
 margin: 10px;
 width: 30%;
