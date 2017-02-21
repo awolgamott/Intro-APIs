@@ -32,7 +32,7 @@ var getPoliticians = function(politicalObj) {
  	}
 }
 
-var promise = $.getJSON('https://congress.api.sunlightfoundation.com/legislators?per_page=all')
+var promise = $.getJSON('https://congress.api.sunlightfoundation.com/legislators')
 
 promise.then(handleResponse)
 
