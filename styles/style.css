@@ -1,0 +1,19 @@
+body { 
+background: url('https://roxyswords.files.wordpress.com/2011/05/united_states_flag_patriotism.jpg') 
+}
+
+.politician {
+background: grey;
+display: inline-block;
+margin: 10px;
+width: 30%;
+}
+
+h1 {
+text-align: center;
+}
+
+h2 {
+display: inline-block;
+margin: 10px;
+}
