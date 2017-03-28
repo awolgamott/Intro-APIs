@@ -4,7 +4,7 @@ Retrieve data on all legislators by requesting data from an Sunlight Foundation 
 
 https://awolgamott.github.io/Intro-APIs/
 
-##Resources
+## Resources
 
 Sunlight Foundation API: https://sunlightfoundation.com/api/
 jquery source code (CDN link): https://code.jquery.com/jquery-3.0.0.min.js
