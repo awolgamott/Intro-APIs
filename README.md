@@ -7,6 +7,7 @@ https://awolgamott.github.io/Intro-APIs/
 ## Resources
 
 Sunlight Foundation API: https://sunlightfoundation.com/api/
+
 jquery source code (CDN link): https://code.jquery.com/jquery-3.0.0.min.js
 
 ## LICENSE
